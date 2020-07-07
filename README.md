@@ -17,13 +17,13 @@ I use this [repo](https://github.com/hjnilsson/country-flags) for Insert Flags i
 
 **Firts Tab**
 
-  ![First Tab Repo](https://github.com/canissorion/oms_app/blob/master/flutter_01.png)
+  ![First Tab Repo](https://github.com/canissorion/oms_app/blob/master/flutter_01.png){:height="50%" width="50%"}
 
 **Second Tab**
 
-  ![Second Tab Repo](https://github.com/canissorion/oms_app/blob/master/flutter_02.png)
+  ![Second Tab Repo](https://github.com/canissorion/oms_app/blob/master/flutter_02.png){:height="50%" width="50%"}
 
 **Country Page**
 
-  ![Country Page Repo](https://github.com/canissorion/oms_app/blob/master/flutter_03.png)
+  ![Country Page Repo](https://github.com/canissorion/oms_app/blob/master/flutter_03.png){:height="50%" width="50%"}
 
